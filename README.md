@@ -8,7 +8,7 @@ Through this project, we aim to:
 
 - **Understand the YOLO architecture**: Explore its unique one-stage approach to object detection.  
 - **Implement YOLO from scratch**: Design the architecture and its components using PyTorch.  
-- **Train the model**: Use a subset of benchmark datasets such as COCO or Pascal VOC for model training https://www.kaggle.com/datasets/aruchomu/data-for-yolo-v3-kernel .  
+- **Train the model**: Use a subset of benchmark datasets such as COCO or Pascal VOC for model training https://cocodataset.org/#home .  
 - **Evaluate the model**: Measure performance using standard metrics like **Mean Average Precision (mAP)** and **Intersection over Union (IoU)**.
 
 Minura Hajisoy & Rumiyya Alili.
