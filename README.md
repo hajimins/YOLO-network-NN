@@ -1,9 +1,9 @@
-YOLO (You Only Look Once) Object Detection Implementation
-This project is a custom implementation of the YOLO (You Only Look Once) algorithm, a popular object detection framework. YOLO uses a single convolutional neural network to detect and classify objects in real-time, making it a fast and efficient solution for object detection tasks.
+# YOLO Object Detection Network  
 
-Through this project, we aim to:
+This repository implements the YOLOv3 architecture for object detection, supporting batch processing and CUDA acceleration. The model is trained on the COCO dataset for detecting multiple object classes.  
 
-Understand the YOLO architecture and its unique one-stage approach.
-Implement the model and its components from scratch using PyTorch.
-Train the model on a subset of a benchmark object detection dataset (e.g., COCO or Pascal VOC).
-Evaluate the model’s performance using standard metrics like mAP and IoU.
+## Dataset Reference  
+
+The pretrained weights and class labels are from the [COCO Dataset](https://cocodataset.org/#home).  
+
+Minura Hajisoy & Rumiyya Alili.
