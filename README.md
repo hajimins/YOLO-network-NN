@@ -7,5 +7,8 @@ The pretrained weights and class labels are based on the **Pascal VOC Dataset**,
 
 ---
 
+Kaggle Implementation of the code:
+https://www.kaggle.com/code/hajimins/yolo-implementation
+
 **Authors:**  
 Minura Hajisoy & Rumiyya Alili  
